@@ -47,4 +47,6 @@
   </body>
 </html>
 ```
-6. Html Academy (profileId: id1184237)
+6. Html Academy (Profile Id: id1184237)
+1. BSU, Faculty of Radiophysics and Computer Technology, spec. Radiophysicist; Rolling scopes school
+1. 1 year, technical english
