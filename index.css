@@ -1,6 +1,10 @@
 .bodywidth{
-    width: 1024px;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
 }
-.codemargin{
-    margin-left: -150px;
+.container{
+    width: 590px;
+    margin-left: auto;
+    margin-right: auto;
 }
