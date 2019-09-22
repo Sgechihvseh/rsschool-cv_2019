@@ -1,10 +1,32 @@
 .bodywidth{
+    background-image: url(VNY9L6L6AZo.jpg);
+    background-size: cover;
     max-width: 1024px;
     margin-left: auto;
     margin-right: auto;
 }
 .container{
-    width: 590px;
+    width: 620px;
     margin-left: auto;
     margin-right: auto;
+}
+h1 {
+    background-color: rgba(231, 225, 216, 0.425);
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+.list{
+    background-color: rgba(231, 225, 216, 0.425);
+    border: 1px solid black;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.image{
+    border-radius: 50%;
+    display:block;
+    margin:0 auto;
 }
